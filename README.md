@@ -1,6 +1,6 @@
 # Vhook_Spammer
 Vhook is a advanced Discord webhook spammer / deleter with embeds, open source, coded by somebody
-Discord: somebody#2380
+Discord: somebody#2380 add me as friend/dm me if you need help
 # How to install
 ! If you dont want to install anything, just run the .exe !
 1. You need python (over 3.8)
